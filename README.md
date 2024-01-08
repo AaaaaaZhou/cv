@@ -53,7 +53,7 @@ In Oct 2016, volunteer service in Shanghai international marathon.
 In summer 2017, volunteer teaching in Lishui City, Zhejiang province, China.
 
 # Employment
-* Huawei Technologies Co., Ltd.
+### Huawei Technologies Co., Ltd.
 Feb 2023 ~ Now
 Network device driver development.
 - Developing soc driver and bsp for WLAN and switch devices, majorly cpu accelerating modules for packet parsing and forwarding.
