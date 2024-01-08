@@ -25,6 +25,7 @@ Project: Enhance ProtoNet with Visual-Semantic Embedding
 
 Currently, I'm working with Professor TAN Kian Lee (NUS, School of Computing) on project "Game analytics".
 Link: https://github.com/AaaaaaZhou/internal_capstone_proj
+
 【240108 update: finished in Nov 2022】
 
 ## Participated projects and activities
@@ -48,6 +49,7 @@ Laundry Assistant (May 2017 ~ Jul 2017):
 - Link: https://github.com/KennyNg-19/TripCloudApp
 
 In Oct 2016, volunteer service in Shanghai international marathon.
+
 In summer 2017, volunteer teaching in Lishui City, Zhejiang province, China.
 
 # Employment
