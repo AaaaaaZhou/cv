@@ -6,7 +6,7 @@ Tel: +86 18217288960
 Sep 2016 ~ Jul 2020
 B.E of Computer Science and Engineering (IEEE honored class) in Shanghai Jiao Tong University
 
-Jan 2021 ~ Nov 2022 (expected)
+Jan 2021 ~ Dec 2022
 M.S. of Computing in National University of Singapore
 
 ## Laboratories and Researches
@@ -53,7 +53,7 @@ In Oct 2016, volunteer service in Shanghai international marathon.
 In summer 2017, volunteer teaching in Lishui City, Zhejiang province, China.
 
 # Employment
-## Huawei Technologies Co., Ltd.
-Feb 2022 ~ Now
+* Huawei Technologies Co., Ltd.
+Feb 2023 ~ Now
 Network device driver development.
 - Developing soc driver and bsp for WLAN and switch devices, majorly cpu accelerating modules for packet parsing and forwarding.
