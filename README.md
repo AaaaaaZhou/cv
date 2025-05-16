@@ -61,6 +61,6 @@ Feb 2023 ~ Apr 2024, Network device driver development.
 Apr 2024 ~ Now, Theoretical Computer Science Lab.
 - Designing and developing algorithms for Huawei flagship devices.
   * Budget control algorithm in XiaoYi ad slot for adx.
-  * Low Power Consumption(LPC) algorithm in screen swiping scenario.
+  * Low Power Consumption(LPC) algorithm in screen swiping scenario for OHOS.
   * LPC optimizing in camera preview and post-processing.
 
