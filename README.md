@@ -55,12 +55,10 @@ In summer 2017, volunteer teaching in Lishui City, Zhejiang province, China.
 # Employment
 ### Huawei Technologies Co., Ltd.
 Feb 2023 ~ Apr 2024, Network device driver development.
-
 - Developing soc driver and bsp for WLAN and switch devices, majorly cpu accelerating modules for packet parsing and forwarding.
 
 
 Apr 2024 ~ Now, Theoretical Computer Science Lab.
-
 - Designing and developing algorithms for Huawei flagship devices.
   * Budget control algorithm in XiaoYi ad slot for adx.
   * Low Power Consumption(LPC) algorithm in screen swiping scenario.
