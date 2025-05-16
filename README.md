@@ -43,7 +43,7 @@ Laundry Assistant (May 2017 ~ Jul 2017):
 - I was the group leader.
 - Link: https://github.com/AaaaaaZhou/GrotesqueMansion
 
-"Trip Cloud" (Mar 2022 ~ Mar 2022):
+"Trip Cloud" (Mar 2022 ~ May 2022):
 - Collect information of public parking lots and their nearby facilities in Singapore, provide recommendation based on user's destination and free parking space of nearby lots.
 - I was a group member.
 - Link: https://github.com/KennyNg-19/TripCloudApp
